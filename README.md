@@ -19,9 +19,9 @@
 </p>
 
 ## Start 
-- Install - `yarn install`
+- Install - `npm install`
 - Sempre verificar se o node e react estão instalados!
-- Run - `yarn start`
+- Run - `npm run dev`
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
